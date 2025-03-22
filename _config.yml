@@ -1,5 +1,5 @@
 tittle: Avijit Jana
-# logo:
-# description:
+logo: "../assets/profile.png"
+description: "Dedicated Data Scientist with a passion for uncovering insights through machine learning and deep learning techniques. Skilled in Python, SQL, and tools like Power BI and Excel, I enjoy transforming complex data into actionable strategies. My recent projects include developing predictive models for customer churn and designing interactive dashboards for business intelligence."
 # show_downloads: true
 theme: jekyll-theme-minimal
